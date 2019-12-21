@@ -1,0 +1,10 @@
+till now i can create file at local using git bash
+i have made a new remote repositry on git hub
+pushed local to remote repositry
+created new file in remote repositry and pulled it in local sysytem
+then again pushed it into remote
+what left
+branching
+merging 
+from unkonwn repositry pull and make requests
+change local to previous changes
